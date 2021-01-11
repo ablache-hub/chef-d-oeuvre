@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "ab.back.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for ab.back.jwtSecret."
+  }
+] }
